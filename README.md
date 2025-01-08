@@ -53,7 +53,7 @@
 - **Optional Backend**: Node.js and Express for managing task data (if needed).  
 - **Database (Optional)**: MongoDB or Firebase for storing task details.  
 
----
+
 
 ## 🚀 How to Run the Project
 
